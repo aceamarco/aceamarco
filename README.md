@@ -1,5 +1,7 @@
 ![](banner.png)
 
+> Disclaimer: The projects and opinions shared here are entirely my own and not affiliated with any employer —unless clearly stated otherwise.
+
 <!--
 **aceamarco/aceamarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
